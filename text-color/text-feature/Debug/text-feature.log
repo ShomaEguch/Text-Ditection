@@ -1,0 +1,53 @@
+﻿2014/10/25 22:35:50 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\text-feature\text-feature.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\text-feature.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Opencv_2.4.2\build\include /IC:\opencv245\build\include /IC:\opencv245\build\include\opencv /IC:\opencv245\build\include\opencv2 /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\connectedcomp.h(886): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\connectedcomp.h(887): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\connectedcomp.h(888): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\connectedcomp.h(889): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\connectedcomp.h(890): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\connectedcomp.h(891): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\main.cpp(104): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\main.cpp(106): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\main.cpp(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\main.cpp(110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\main.cpp(112): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\main.cpp(96): warning C4101: 'output' : ローカル変数は 1 度も使われていません。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\main.cpp(150): warning C4101: 'end' : ローカル変数は 1 度も使われていません。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\main.cpp(337): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' の宣言を確認してください。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\main.cpp(339): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' の宣言を確認してください。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\main.cpp(341): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' の宣言を確認してください。
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(2801): warning C4996: 'std::_Fill_n': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(2787) : 'std::_Fill_n' の宣言を確認してください。
+                 c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\connectedcomp.h(762) : コンパイルされたクラスの テンプレート のインスタンス化 'void std::fill_n<int*,int,int>(_OutIt,_Diff,const _Ty &)' の参照を確認してください
+                 with
+                 [
+                     _OutIt=int *,
+                     _Diff=int,
+                     _Ty=int
+                 ]
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\Debug\text-feature.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Opencv_2.4.2\build\x86\vc10\lib /LIBPATH:C:\opencv245\build\x86\vc10\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\text-feature.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\Debug\text-feature.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\Debug\text-feature.lib" /MACHINE:X86 Debug\main.obj
+         text-feature.vcxproj -> C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\Debug\text-feature.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\Debug\text-feature.exe.manifest" /manifest "Debug\text-feature.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         ファイル "Debug\text-feature.unsuccessfulbuild" を削除しています。
+         "Debug\text-feature.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\text-feature\text-feature.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.56
