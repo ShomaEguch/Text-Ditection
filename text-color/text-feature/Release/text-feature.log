@@ -1,0 +1,46 @@
+﻿2014/10/25 23:07:33 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\text-feature\text-feature.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Release\text-feature.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\opencv245\build\include /IC:\opencv245\build\include\opencv /IC:\opencv245\build\include\opencv2 /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\ConnectedComp.h(886): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\ConnectedComp.h(887): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\ConnectedComp.h(888): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\ConnectedComp.h(889): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\ConnectedComp.h(890): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\eguchi\desktop\研究vs2013\演習第二\text+color\text-coloronly\text-feature\ConnectedComp.h(891): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>main.cpp(104): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>main.cpp(106): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>main.cpp(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>main.cpp(110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>main.cpp(112): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>main.cpp(96): warning C4101: 'output' : ローカル変数は 1 度も使われていません。
+     1>main.cpp(150): warning C4101: 'end' : ローカル変数は 1 度も使われていません。
+     1>main.cpp(337): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : 'strtok' の宣言を確認してください。
+     1>main.cpp(339): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : 'strtok' の宣言を確認してください。
+     1>main.cpp(341): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : 'strtok' の宣言を確認してください。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\Release\text-feature.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\opencv245\build\x86\vc10\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\text-feature.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\Release\text-feature.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\Release\text-feature.lib" /MACHINE:X86 Release\main.obj
+         コード生成しています。
+         コード生成が終了しました。
+         text-feature.vcxproj -> C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\Release\text-feature.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\Release\text-feature.exe;#1" /manifest "Release\text-feature.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         ファイル "Release\text-feature.unsuccessfulbuild" を削除しています。
+         "Release\text-feature.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\Eguchi\Desktop\研究vs2013\演習第二\text+color\text-colorOnly\text-feature\text-feature.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.69
